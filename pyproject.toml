@@ -8,6 +8,7 @@ authors = ["Glenn Elliron Clark <Elliron.Clark@gmail.com>"]
 python = "^3.9"
 Django = "^3.2.7"
 black = "^21.9b0"
+djangorestframework = "^3.12.4"
 
 [tool.poetry.dev-dependencies]
 
